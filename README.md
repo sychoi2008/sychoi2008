@@ -21,7 +21,7 @@ https://velog.io/@colorful-stars/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9CDBA6&height=300&section=header&text=I%20am%20RUMI%20CHOI&fontSize=60&animation=twinkling&fontAlignY=38&desc=Feel%20free%20to%20visit%20here!&descAlignY=51&descAlign=62" />
 
 ### 🔭 Study Session
-<a href="https://well-repair-9fe.notion.site/Rumi-CHOI-ecc3adb22b254e46b20a5bccc46aece8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://well-repair-9fe.notion.site/Rumi-CHOI-ecc3adb22b254e46b20a5bccc46aece8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>　＜- not completed
 
 ### 🛠️ stack
 <img src="https://img.shields.io/badge/Springboot-6DB33f?style=flat-square&logo=SpringBoot&logoColor=white"/></a> 
