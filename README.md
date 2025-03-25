@@ -12,10 +12,8 @@ A web service that provides Beeper functionality through a modern web applicatio
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 
 🌟 **Features**
-- Send Beeper messages using CRUD operations
-- Search Beeper message codes through an encrypted dictionary
-- Implemented user authentication and authorization with JWT tokens
-
+- Implemented authentication and authorization during user registration using hash functions and salt
+- Reduced query execution time from an average of 2.2 seconds to 0.4 seconds through query tuning
 
 
 ### 📌 Simple Blog Project
