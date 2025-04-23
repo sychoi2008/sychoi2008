@@ -1,29 +1,26 @@
 # 🍕 Hi there! I'm SoYoung CHOI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+
 
 ## 🛠 Tech Stack
-<div> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/> </div>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : JavaとSpring Frameworkを使用し、個人開発プロジェクトのサーバーを実装してきました。
 
-## 🚀 Projects
-### 📌 삐삐 프로젝트 (Beeper Web Application)
-A web service that provides Beeper functionality through a modern web application.
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) : JavaとSpring Frameworkを使用し、個人開発プロジェクトのサーバーを実装してきました。
 
-🛠 **Tech Stack**
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white) : JPAとMySQLを使用し、データベースの処理を行ってきました。
 
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) : JPAとMySQLを使用し、データベースの処理を行ってきました。
 
-🌟 **Features**
-- Implemented authentication and authorization during user registration using hash functions and salt
-- Reduced query execution time from an average of 2.2 seconds to 0.4 seconds through query tuning
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) : AWS EC2とDockerを利用しデプロイをしたことがあります。
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) : AWS EC2とDockerを利用しデプロイをしたことがあります。
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) : Gitを利用して新しいブランチを作成し作業を行い、GithubのPull requestを使用してプロジェクトを改善した経験があります。
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) : Gitを利用して新しいブランチを作成し作業を行い、GithubのPull requestを使用してプロジェクトを改善した経験があります。
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) : 2021年からNotionを使用しており、最も自信のあるドキュメントツールです。
 
 
-### 📌 Simple Blog Project
-A lightweight blogging platform built with Ruby on Rails and Vue.js.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sychoi2008&layout=compact"><br><br>
 
-🛠 **Tech Stack**
-
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-
-🌟 **Features**
-- CRUD functionality for blog posts using Rails
-- User authentication with Devise (session-based login)
-- Pinia for state management and route protection (restricting access to logged-in users only)
