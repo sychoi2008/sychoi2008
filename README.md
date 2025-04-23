@@ -1,6 +1,4 @@
 # 🍕 Hi there! I'm SoYoung CHOI
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
-
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : JavaとSpring Frameworkを使用し、個人開発プロジェクトのサーバーを実装してきました。
